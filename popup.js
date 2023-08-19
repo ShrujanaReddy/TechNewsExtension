@@ -10,7 +10,7 @@ document.addEventListener('DOMContentLoaded', () => {
       .filter(option => option.selected)
       .map(option => option.value);
 
-    const apiKey = '9050c29cf007dbedc79f54ac5d794dc2'; // Replace with your GNews API key
+    const apiKey = ''; // Replace with your GNews API key
     const apiUrl = `https://gnews.io/api/v4/search?lang=en&q=${selectedTopics.join('+')}&token=${apiKey}`;
 
     try {
