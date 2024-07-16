@@ -23,9 +23,6 @@ Stay up-to-date with the latest tech news using the Tech at Tips Chrome extensio
 3. Click the "Fetch News" button to see the latest news articles.
 4. Click on an article to read the full story in a new tab.
 
-## Credits
-
-This extension was developed by Shrujana Reddy.
 
 <img width="476" alt="image" src="https://github.com/ShrujanaReddy/TechNewsExtension/assets/130744023/cdf0bcf8-9066-4d24-87d6-1fb1871e3f53">
 
